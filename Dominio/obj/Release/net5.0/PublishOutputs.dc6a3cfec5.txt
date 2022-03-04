@@ -1,0 +1,3 @@
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Dominio.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Dominio.deps.json
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Dominio.pdb

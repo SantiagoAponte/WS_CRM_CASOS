@@ -1,0 +1,17 @@
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\bin\Debug\net5.0\Dominio.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.AssemblyReference.cache
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb

@@ -1,0 +1,15 @@
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\obj\Release\net5.0\Persistencia.csproj.AssemblyReference.cache
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\obj\Release\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\obj\Release\net5.0\Persistencia.AssemblyInfoInputs.cache
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\obj\Release\net5.0\Persistencia.AssemblyInfo.cs
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\obj\Release\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\bin\Release\net5.0\Persistencia.deps.json
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\bin\Release\net5.0\Persistencia.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\bin\Release\net5.0\ref\Persistencia.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\bin\Release\net5.0\Persistencia.pdb
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\bin\Release\net5.0\Dominio.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\bin\Release\net5.0\Dominio.pdb
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\obj\Release\net5.0\Persistencia.csproj.CopyComplete
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\obj\Release\net5.0\Persistencia.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\obj\Release\net5.0\ref\Persistencia.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Persistencia\obj\Release\net5.0\Persistencia.pdb

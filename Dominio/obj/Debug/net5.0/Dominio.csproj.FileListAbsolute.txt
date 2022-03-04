@@ -1,0 +1,12 @@
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Dominio\bin\Debug\net5.0\Dominio.deps.json
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Dominio\bin\Debug\net5.0\Dominio.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Dominio\bin\Debug\net5.0\Dominio.pdb
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Dominio\obj\Debug\net5.0\Dominio.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\Dominio\obj\Debug\net5.0\Dominio.pdb

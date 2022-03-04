@@ -1,0 +1,15 @@
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Persistencia.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Persistencia.deps.json
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Persistencia.pdb
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Microsoft.EntityFrameworkCore.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Microsoft.Extensions.Caching.Abstractions.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Microsoft.Extensions.Caching.Memory.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Microsoft.Extensions.DependencyInjection.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Microsoft.Extensions.Logging.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Microsoft.Extensions.Options.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Microsoft.Extensions.Primitives.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Dominio.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\publish\Dominio.pdb
