@@ -22,7 +22,7 @@ namespace WebApi.Controllers
         [HttpGet("redmine")]
         public async Task<ActionResult> GetCasos()
         {
-            var url = "http://soluciones.lavital.co/issues.json?project_id=9&limit=5000";
+            var url = "http://soluciones.lavital.co/issues.json?project_id=9&limit=1000";
 
             using (var http = new HttpClient())
             {
