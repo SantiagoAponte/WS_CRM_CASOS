@@ -30,7 +30,7 @@ namespace Aplicacion.Interfaces
                 //     Message = "No existe ningun usuario con este Email",
                 // };
                 //  user.Email = email;
-            var apiKey = "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";
+            var apiKey = "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";
             var client = new SendGridClient(apiKey);
             var from_email = new EmailAddress("Noresponder@servital.co", "SerVital");
        var subject = "Tienes un nuevo Caso Creado en SerVital";
@@ -39,11 +39,11 @@ namespace Aplicacion.Interfaces
        var htmlContent = "Numero de caso registrado: "+ $"{caso}";
        var msg = MailHelper.CreateSingleEmail(from_email, to_email, subject, plainTextContent, htmlContent);
             var response = await client.SendEmailAsync(msg);
-
+    
             return new userManagerResponse
             {
                 IsSuccess = true,
-                Message = "Se envio el correo de activación al usuario."
+                Message = "Se envio el correo del numero de caso al usuario."
             };
 
             // var apiKey = "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";

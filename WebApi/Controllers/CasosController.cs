@@ -35,9 +35,9 @@ namespace WebApi.Controllers
 
             var result = await _mailService.SendEmailAsync(email, caso);
 
-            if (result.IsSuccess)
-                return Ok(result); // 200
-
+            if (result.IsSuccess){
+                 return Ok(result); // 200
+            }
             return BadRequest(result); // 400
         }
 
