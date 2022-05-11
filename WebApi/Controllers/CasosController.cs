@@ -1,4 +1,5 @@
 ﻿using Aplicacion;
+using Aplicacion.Interfaces;
 using Dominio;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -16,9 +17,30 @@ using System.Threading.Tasks;
 
 namespace WebApi.Controllers
 {
-    public class CasosController : myControllerBase
+    public class CasosController : myControllerBase{
+     private MailService _mailService;
+     public CasosController(MailService mailService)
+        {
+       
+            _mailService = mailService;
+           
+        }
 
-    {
+    
+[HttpGet("createdMail")]
+        public async Task<IActionResult> SendmailCreateAppoinment(string email, string caso)
+        {
+            // if (string.IsNullOrEmpty())
+            //     return NotFound();
+
+            var result = await _mailService.SendEmailAsync(email, caso);
+
+            if (result.IsSuccess)
+                return Ok(result); // 200
+
+            return BadRequest(result); // 400
+        }
+
         [HttpGet("redmine")]
         public async Task<ActionResult> GetCasos()
         {

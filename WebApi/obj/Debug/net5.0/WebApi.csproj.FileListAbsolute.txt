@@ -63,3 +63,9 @@ D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\WebApi\obj\Debug\net5.0\WebApi.dll
 D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\WebApi\obj\Debug\net5.0\ref\WebApi.dll
 D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\WebApi\obj\Debug\net5.0\WebApi.pdb
 D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\WebApi\bin\Debug\net5.0\SendGrid.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\WebApi\bin\Debug\net5.0\StarkbankEcdsa.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\proyectos la vital\WS_REGISTRA_CASOS_CRM\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
