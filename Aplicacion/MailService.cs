@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using SendGrid;
 using SendGrid.Helpers.Mail;
+using System;
 using System.Threading.Tasks;
 
 namespace Aplicacion.Interfaces
@@ -20,38 +21,40 @@ namespace Aplicacion.Interfaces
 
         public async Task<userManagerResponse> SendEmailAsync(string email, string caso)
         {
-            //  var user = await _userManger.FindByEmailAsync(email);
-            // if (user == null){
-            //      throw new ManagerError(HttpStatusCode.NotAcceptable, new {mensaje ="No existe ningun usuario con este Email"});
-            // }
-                // return new UserManagerResponse
-                // {
-                //     IsSuccess = false,
-                //     Message = "No existe ningun usuario con este Email",
-                // };
-                //  user.Email = email;
-            var apiKey = "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";
+            
+//  var apiKey = "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";
+//             var client = new SendGridClient(apiKey);
+//             var from = new EmailAddress("Noresponder@lavital.co", "Example User");
+//             var subject = "Tienes un nuevo registro de caso en servital";
+//             var to = new EmailAddress(email, "Example User");
+//             var plainTextContent = "";
+//             var htmlContent = "Numero de caso registrado: "+ $"{caso}"; 
+//             var msg = MailHelper.CreateSingleEmail(from, to, subject, plainTextContent, htmlContent);
+//             var response = await client.SendEmailAsync(msg);
+//     Console.WriteLine(response.IsSuccessStatusCode);
+var apiKey = "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";
             var client = new SendGridClient(apiKey);
-            var from_email = new EmailAddress("Noresponder@servital.co", "SerVital");
-       var subject = "Tienes un nuevo Caso Creado en SerVital";
-       var to_email = new EmailAddress(email, "Querido Usuario");
-       var plainTextContent = "Este es tu numero de caso creado:" + caso;
-       var htmlContent = "Numero de caso registrado: "+ $"{caso}";
-       var msg = MailHelper.CreateSingleEmail(from_email, to_email, subject, plainTextContent, htmlContent);
+            var msg = new SendGridMessage();
+            msg.SetFrom(new EmailAddress("ontosoft5@gmail.com", "La Vital"));
+            msg.AddTo(new EmailAddress(email,"Activación OntoSoft"));
+            msg.SetTemplateId("d-577d5cdaf6cb452cbf687ecbcebe2c8d");
+            msg.SetTemplateData(new{
+                    caso = $"{caso}"
+                    });
             var response = await client.SendEmailAsync(msg);
-    
+       if(response.IsSuccessStatusCode) {
             return new userManagerResponse
             {
                 IsSuccess = true,
                 Message = "Se envio el correo del numero de caso al usuario."
             };
 
-            // var apiKey = "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";
-            // var client = new SendGridClient(apiKey);
-            // var from = new EmailAddress("ontosoft5@gmail.com", "OntoSoft Recupera tu contraseña!");
-            // var to = new EmailAddress(toEmail);
-            // var msg = MailHelper.CreateSingleTemplateEmail(from, to,"d-17616c7169ba421f966e318f4e620111", dynamicTemplateData);
-            // var response = await client.SendEmailAsync(msg);
+       }
+       return new userManagerResponse
+            {
+                IsSuccess = false,
+                Message = "Hubo un error al enviar el correo."
+            };
             
         }
     }

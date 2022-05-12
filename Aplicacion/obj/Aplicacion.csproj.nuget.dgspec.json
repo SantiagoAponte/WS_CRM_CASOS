@@ -61,7 +61,7 @@
             },
             "SendGrid": {
               "target": "Package",
-              "version": "[9.27.0, )"
+              "version": "[9.24.2, )"
             }
           },
           "imports": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SbWtnkgCpG4+sG4XdgDeSMz9/BUc4d91taM/zIFQZGir5Ki/E72s+EsV3M0ZLnur3vtfmkv6ZP6hhFOzktqNJw==",
+  "dgSpecHash": "hXsrLyIujoKAJaRvyxIYuMaBg2GU1QK0d5j6iDJgZEQxWKUaQyPpfBfqM1ZJz+7RcVfAmA7n3GpG2jI/1/ilGA==",
   "success": true,
   "projectFilePath": "D:\\proyectos la vital\\WS_REGISTRA_CASOS_CRM\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
@@ -23,8 +23,8 @@
     "C:\\Users\\santiago.aponte\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "C:\\Users\\santiago.aponte\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\santiago.aponte\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
-    "C:\\Users\\santiago.aponte\\.nuget\\packages\\sendgrid\\9.27.0\\sendgrid.9.27.0.nupkg.sha512",
-    "C:\\Users\\santiago.aponte\\.nuget\\packages\\starkbank-ecdsa\\1.3.3\\starkbank-ecdsa.1.3.3.nupkg.sha512",
+    "C:\\Users\\santiago.aponte\\.nuget\\packages\\sendgrid\\9.24.2\\sendgrid.9.24.2.nupkg.sha512",
+    "C:\\Users\\santiago.aponte\\.nuget\\packages\\starkbank-ecdsa\\1.3.1\\starkbank-ecdsa.1.3.1.nupkg.sha512",
     "C:\\Users\\santiago.aponte\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\santiago.aponte\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\santiago.aponte\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
